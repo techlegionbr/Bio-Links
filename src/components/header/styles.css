@@ -1,0 +1,31 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header-container img{
+    display: none;
+}
+
+article {
+    line-height: 2.5rem;
+}
+
+.company-name {
+    border: none;
+    text-decoration: none;
+    font-weight: 100;
+    background-color: transparent;
+    font-size: 2.5rem;
+
+}
+
+p {
+    border-radius: none;
+    background-image: linear-gradient(to right, #00DBFF, #0061FF);
+    background-clip: text;
+    color: transparent;
+}
+
