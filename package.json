@@ -19,7 +19,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
+      "Tech Legion Links",
       "react-app/jest"
     ]
   },
